@@ -1,0 +1,96 @@
+.navigation li{
+display: inline;}
+.Un{
+  display: flex;
+  color: rgb(50, 16, 52) ;
+  list-style: none;
+}
+.Deux{
+  color: rgb(73, 54, 105) ;
+}
+h1 {
+  color: rgb(209, 51, 118) ;
+  font-size: 400% ;
+  margin-top: 20% ;
+  font-family: 'mapolice'
+}
+@font-face {
+  font-family: mapolice ;
+  src: url('WickedGrit.ttf') ;
+}
+.Trois{
+  margin-top: auto;
+}
+#container {
+  display : flex ;
+  flex-wrap : wrap ;
+  background-color: rgb(6, 6, 6) ;
+}
+#container2{
+  background-color: rgb(238, 234, 207) ;
+}
+.Titre {
+  margin-left: 13% ;
+  margin-top: 50% ;
+}
+.Début {
+  margin-left: 1% ;
+  margin-right: 4px ;
+  margin-top: 5% ;
+}
+#Bannière{
+  display: flex;
+  justify-content: center;
+  margin-right: 150px
+}
+.js{
+  padding-right: 20px
+}
+.php{
+  position: absolute;
+  right: 445px ;
+  top: 300px
+}
+/*#container1 {
+  margin-left: 8% ;
+  margin-right: 8% ;
+  margin-bottom: 8% ;
+  margin-top: 8% ;
+}*/
+p {
+  color: white ;
+  position: absolute;
+  left: 3% ;
+  top: 0% ;
+}
+body{
+  background-color: rgb(238, 234, 207) ;
+}
+#liste {
+  position: absolute;
+  left: 40% ;
+}
+.uno {
+  position: absolute;
+}
+.quatre{
+  position: absolute;
+  left: 50px;
+  bottom: 77px ;
+  right: 250px ;
+  margin-bottom: 4px ;
+}
+.q{
+  color: rgb(152, 74, 200)
+}
+#i{ font-family: 'mapolices';
+  font-size: 30px;
+color: white;
+position: absolute;
+left: 420px;
+top: 240px
+ }
+@@font-face {
+  font-family: mapolices ;
+  src: url('LetMeRide.ttf');
+}
