@@ -94,3 +94,13 @@ top: 240px
   font-family: mapolices ;
   src: url('LetMeRide.ttf');
 }
+.c{
+  position: absolute;
+  left: 1090px ;
+  top: 620px;
+  width: 200px;
+  height: 40px;
+}
+.co{
+  color: rgb(152, 74, 200);
+}
